@@ -1,0 +1,40 @@
+This folder will contain fundamental algorithm implementations in C.
+
+📂 Basic-Problems
+ ┣ factorial.c
+ ┣ fibonacci.c
+ ┣ last_digit_fibonacci.c
+ ┣ last_digit_sum_fibonacci.c
+ ┣ array_product.c
+ ┗ README.md
+
+# 📂 Basic Problems (C Implementations)
+
+This folder contains solutions to some **basic algorithmic problems in C**.  
+Each problem is implemented as a separate `.c` file with explanations and comments.  
+
+---
+
+## 📌 Problems Included
+
+| No. | Problem Statement                                   | File(s)                                | Approach |
+|-----|-----------------------------------------------------|-----------------------------------------|----------|
+| 1   | Find the factorial of a given number                | [factorial.c](factorial.c)              | Iterative / Recursive |
+| 2   | Compute the Fibonacci number (Fn)                   | [fibonacci.c](fibonacci.c)              | Recursion + DP |
+| 3   | Print the last digit of nth Fibonacci Number        | [last_digit_fibonacci.c](last_digit_fibonacci.c) | Modulo operation |
+| 4   | Print the last digit of the sum of Fibonacci Numbers| [last_digit_sum_fibonacci.c](last_digit_sum_fibonacci.c) | Pisano Period |
+| 5   | Find the product of all array elements              | [array_product.c](array_product.c)      | Iterative loop |
+
+---
+
+## 📖 Example: Factorial of a Number
+
+**Problem:**  
+Given an integer `n`, compute its factorial (`n!`).  
+
+**Approach:**  
+- Use a loop or recursion.  
+- Time Complexity: **O(n)**  
+
+
+---
