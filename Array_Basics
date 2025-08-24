@@ -1,0 +1,41 @@
+# 📂 Arrays / Array_Basics.c
+
+>> This file contains **basic array operations implemented in C**.  
+>> It demonstrates fundamental algorithms to practice **array manipulation, searching, and sorting**.  
+
+---
+
+## 📌 Programs Included
+
+| No. | Problem Statement                                                      | Function / Notes                     |
+|-----|------------------------------------------------------------------------|-------------------------------------|
+| 1   | Find the sum of array elements                                         | `sumOfArray(arr, n)`                 |
+| 2   | Insert a new element at a given location                               | `insertAtPosition(arr, &n, element, pos)` |
+| 3   | Insert a new element in a sorted array                                  | `insertSorted(arr, &n, element)`    |
+| 4   | Delete an existing element from a given location                       | `deleteAtPosition(arr, &n, pos)`    |
+| 5   | Find the location of an array element using Linear Search              | `linearSearch(arr, n, key)`         |
+| 6   | Print the largest element from an array and its location               | `largestElement(arr, n)`            |
+| 7   | Print the largest and second largest elements                          | `largestAndSecond(arr, n)`          |
+| 8   | Find the location of an array element using Binary Search              | `binarySearch(arr, n, key)`         |
+| 9   | Sort the elements of an array using Bubble Sort                         | `bubbleSort(arr, n)`                |
+
+---
+
+## 🔹 Example Usage
+
+```bash
+gcc Array_Basics.c -o Array_Basics
+./Array_Basics
+
+
+>> The program demonstrates all operations with sample arrays.
+
+>> Functions are modular and can be used individually in other programs.
+
+✅ Key Features
+
+>> Modular C functions for each problem
+
+>> Well-commented and easy to understand
+
+>> Covers basic operations, searching, and sorting
