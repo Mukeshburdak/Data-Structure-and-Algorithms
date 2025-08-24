@@ -47,5 +47,5 @@ Inside each folder:
 ## 📖 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/DSA.git
+   git clone https://github.com/<Mukeshburdak>/DSA.git
    cd DSA
