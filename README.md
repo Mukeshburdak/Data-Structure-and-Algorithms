@@ -32,9 +32,8 @@ Inside each folder:
 | Topic              | Problems Solved | Status |
 |--------------------|-----------------|--------|
 | Arrays             | 15              | ✅ Completed |
-| Linked List        | 10              | ⏳ In Progress |
+| Linked List        | 18              | ⏳ In Progress |
 | Trees              | 5               | ⏳ In Progress |
-| Graphs             | 3               | ❌ Pending |
 | Dynamic Programming| 8               | ❌ Pending |
 
 ---
