@@ -1,0 +1,49 @@
+# 📂 Doubly Linked List Programs in C
+
+This folder contains **C implementations of Doubly Linked List (Two-way Linked List)**.  
+These programs demonstrate how to **create, traverse, search, insert, and delete** elements in a doubly linked list.
+
+---
+
+## 📌 Programs Included
+
+1. **Creating a Doubly Linked List from the Beginning**  
+   - Inserts new nodes at the **start** of the list.  
+   - Traversal shown in **forward direction**.
+
+2. **Creating a Doubly Linked List from the End**  
+   - Appends new nodes at the **end** of the list.  
+   - Traversal shown in **forward direction**.
+
+3. **Searching in a Doubly Linked List**  
+   - Searches for a given element in the list.  
+   - Prints its position if found, otherwise "Not Found".
+
+4. **Deletion in a Doubly Linked List**  
+   - Deletes a node from the list at a **given location**.  
+   - Ensures proper re-linking of previous and next nodes.
+
+5. **Insertion in a Doubly Linked List (After a Given Location)**  
+   - Inserts a new node **after a specified position**.  
+   - Demonstrates pointer manipulation for node linking.
+
+---
+
+## 🔹 Example File Structure
+
+📂 DoublyLinkedList
+┣ 📜 create_from_beginning.c
+┣ 📜 create_from_end.c
+┣ 📜 search.c
+┣ 📜 deletion.c
+┣ 📜 insertion_after_location.c
+┗ 📜 README.md
+
+
+---
+
+## 🔹 How to Compile & Run
+
+```bash
+gcc program_name.c -o output
+./output
