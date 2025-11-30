@@ -1,105 +1,150 @@
-# 📘 Data Structures and Algorithms in C  
+📘 Data Structures and Algorithms in C
+-
 
-Welcome to my **Data Structures & Algorithms (DSA)** repository 🚀.  
-This repo contains well-structured implementations of important DSA topics in **C language**, organized into separate folders for easy navigation.  
-
-The aim is to provide **clean, beginner-friendly, and interview-oriented** code examples with supporting documentation.  
-
----
-
-## 📂 Repository Structure  
-
-### 🔹 1. Arrays  
-- Basic problems like factorial, Fibonacci, array operations.  
-- Programs include:  
-  - Sum of array elements  
-  - Insert/Delete elements  
-  - Linear & Binary Search  
-  - Bubble Sort  
-  - Largest & Second Largest element  
-
-📂 Folder: `Arrays/`
+This repository provides structured implementations of Data Structures and Algorithms (DSA) using C language.
+It is designed for students, beginners, and aspirants who want clean, readable, and well-explained source code.
 
 ---
-
-### 🔹 2. Linked List  
-- Covers **Singly Linked List** (creation, traversal, insertion, deletion, sorting, searching, merging).  
-- **Doubly Linked List** (creation from beginning/end, insertion, deletion, searching).  
-- Circular linked list implementation.  
-
-📂 Folder: `LinkedList/`
+🚀 Technologies & Tools
+-
+<p align="center"> <img src="https://img.shields.io/badge/Language-C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Compiler-GCC-%23121011?style=for-the-badge&logo=gnu&logoColor=white"/> <img src="https://img.shields.io/badge/Editor-VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Category-Data%20Structures%20%26%20Algorithms-%23E95420?style=for-the-badge"/> </p>
 
 ---
+📂 Repository Structure (With Folder Badges)
+-
 
-### 🔹 3. Stack  
-- Different stack implementations:  
-  - Stack using Array  
-  - Stack using Linked List  
-  - Stack using Functions (Linked List based)  
+Folder	Description
 
-📂 Folder: `Stack/`
+	Basic array operations & searching/sorting
+
+	All types of linked list implementations
+
+	Stack using array, linked list, functions
+
+	Queue implementations & priority queue
+
+	Selection, insertion & bubble sort
+
+	Binary Tree & BST operations
+
+  ---
+🧭 DSA Roadmap (Beginner → Advanced)
+-
+
+A clean roadmap for learning DSA step by step:
+
+1️⃣ Foundation
+-
+
+Learn C basics (loops, functions, pointers)
+
+Understand memory (stack, heap)
+
+2️⃣ Core Data Structures
+-
+
+Arrays
+
+Linked Lists
+
+Stack & Queue
+
+3️⃣ Searching & Sorting
+-
+
+Linear / Binary Search
+
+Sorting (Bubble, Selection, Insertion)
+
+4️⃣ Trees
+-
+
+Binary Tree
+
+Binary Search Tree
+
+Tree Traversals (Inorder, Preorder, Postorder)
+
+5️⃣ Advanced Concepts
+-
+
+Recursion
+
+Time & Space Complexity
+
+Hashing (future update)
+
+Graph Theory (future update)
+
+
+This repo helps you through all early–mid stages of DSA.
 
 ---
+⚙️ How to Run
+-
 
-### 🔹 4. Queue  
-- Implementations of:  
-  - Queue using Array  
-  - Queue using Linked List  
-  - Sorting Queue elements  
-  - Priority Queue insertion  
-
-📂 Folder: `Queue/`
-
----
-
-### 🔹 5. Sorting Algorithms  
-- Classical sorting techniques:  
-  - Insertion Sort  
-  - Selection Sort  
-
-📂 Folder: `Sorting/`
-
----
-
-### 🔹 6. Trees  
-- Programs for **Binary Tree** and **Binary Search Tree (BST)**:  
-  - Creation of Binary Tree  
-  - Inorder Traversal  
-  - Preorder Traversal  
-  - Postorder Traversal  
-
-📂 Folder: `Tree/`
-
----
-
-## ⚙️ How to Run the Programs  
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/Mukeshburdak/Data-Structure-and-Algorithms.git
-   cd Data-Structure-and-Algorithms
-Navigate to the desired folder (e.g., Arrays)
+git clone https://github.com/Mukeshburdak/Data-Structure-and-Algorithms.git
+cd Data-Structure-and-Algorithms
 
 
-bash
-Copy code
+Navigate into a folder, compile, and run:
+
 cd Arrays
-Compile and run any program
 
-
-bash
-Copy code
 gcc program.c -o program
 ./program
 
+---
+🌟 Features
+-
 
-✅ Features
-📂 Well-structured folder organization
+Clean, beginner-friendly C codes
 
-💡 Beginner-friendly code with comments
+Structured folder layout
 
-🔍 Covers basic to intermediate DSA topics
+Covers essential DSA concepts
 
-🧩 Helps in college assignments, exams
+Great for college assignments & interviews
 
-🌱 Continuously updated with new programs
+Frequently updated with new programs
+
+---
+🤝 Contribution
+-
+
+Contributions are welcome!
+
+Fork the repo
+
+Create a branch
+
+Add code or improve docs
+
+Open a Pull Request
+
+---
+📜 License
+-
+
+This repository is licensed under the MIT License.
+Feel free to use, modify, and contribute.
+
+---
+⭐ Support the Repository
+-
+
+If you like this project, please ⭐ Star this repo on GitHub — it motivates future improvements!
+
+<p align="center"> <img src="https://i.giphy.com/media/3ohs4BSacFKI7A717y/giphy.webp" width="180"/> </p>
+
+---
+👨‍💻 Author
+-
+
+Mukesh Burdak
+B.Tech CSE @ Central University of Jammu
+Data Science | Machine Learning | Networking Enthusiast
+
+<p align="center"> <a href="https://github.com/Mukeshburdak"> <img src="https://img.shields.io/badge/Visit%20Profile-2F81F7?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
+---
