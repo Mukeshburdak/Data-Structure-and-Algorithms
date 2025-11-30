@@ -10,7 +10,7 @@ It is designed for students, beginners, and aspirants who want clean, readable, 
 <p align="center"> <img src="https://img.shields.io/badge/Language-C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Compiler-GCC-%23121011?style=for-the-badge&logo=gnu&logoColor=white"/> <img src="https://img.shields.io/badge/Editor-VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Category-Data%20Structures%20%26%20Algorithms-%23E95420?style=for-the-badge"/> </p>
 
 ---
-📂 Repository Structure (With Folder Badges)
+📂 Repository Structure 
 -
 
 Folder	Description
